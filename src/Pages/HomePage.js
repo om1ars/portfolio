@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Omar Nurilloev</span></h1>
                 <p>
-                   This is not all i have. This is just an indication of my personality
+                   This is not all i have. This is  an indication of my personality
                 </p>
                 
             </div>
